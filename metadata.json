@@ -1,0 +1,9 @@
+
+{
+  "name": "CyberGuard PT - Portal de Segurança Digital",
+  "description": "Website educativo sobre cibersegurança em Português de Portugal, com foco em conceitos, ataques e guias práticos.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
